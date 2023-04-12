@@ -4,10 +4,13 @@
 <br>🌱 I’m currently learning **STM32**, **C++**, **Digital Design**, **Computer Architecture**, **Electronics**, **IoT** and **English**.<br>📫 How to reach me kagirovartem272@gmail.com<br>
 
 ## 💻 Tech Stack:
-### Languages: **C/C++**
-### ECAD: **Eagle**
-### CAD: **SolidWorks**, **Creo Parametric**
-### Microcontrollers: **STM32**, **ESP**
+|                     |                   |
+|---------------------|-------------------|
+| Languages:       |   **C/C++**       |
+| Microcontrollers:   |**STM32**, **ESP**|
+| ECAD:            |   **Eagle**      |
+| CAD:              |  **SolidWorks**, **Creo Parametric**|
+
 
 <!--
 **ArtemHW/ArtemHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
