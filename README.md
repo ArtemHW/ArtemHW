@@ -5,6 +5,9 @@
 
 ## 💻 Tech Stack:
 ### Languages: **C/C++**
+### ECAD: **Eagle**
+### CAD: **SolidWorks**, **Creo Parametric**
+### Microcontrollers: **STM32**, **ESP**
 
 <!--
 **ArtemHW/ArtemHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
