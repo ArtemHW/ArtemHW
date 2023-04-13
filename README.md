@@ -8,7 +8,7 @@
 |---------------------|-------------------|
 | Languages:       |   **C/C++**       |
 | Microcontrollers:   |**STM32**, **ESP**|
-| ECAD:            |   **Eagle**      |
+| ECAD:            |   **KiCad**      |
 | CAD:              |  **SolidWorks**, **Creo Parametric**|
 
 
