@@ -9,7 +9,7 @@
 | Languages:       |   **C/C++**       |
 | Microcontrollers:   |**STM32**, **ESP**|
 | ECAD:            |   **KiCad**      |
-| RTOS:              | FreeRTOS, CMSIS-RTOS |
+| RTOS:              | **FreeRTOS, CMSIS-RTOS** |
 | CAD:              |  **SolidWorks**, **Creo Parametric**|
 
 
