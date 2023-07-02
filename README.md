@@ -10,6 +10,7 @@
 | Microcontrollers:   |**STM32**, **ESP**|
 | ECAD:            |   **KiCad**      |
 | CAD:              |  **SolidWorks**, **Creo Parametric**|
+| RTOS:              | FreeRTOS, CMSIS-RTOS |
 
 
 <!--
